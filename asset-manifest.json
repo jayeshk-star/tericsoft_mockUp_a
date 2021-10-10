@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tericsoft_mockUp_a/static/css/main.38cad8ba.chunk.css",
+    "main.css": "/tericsoft_mockUp_a/static/css/main.2d46426c.chunk.css",
     "main.js": "/tericsoft_mockUp_a/static/js/main.81239913.chunk.js",
     "main.js.map": "/tericsoft_mockUp_a/static/js/main.81239913.chunk.js.map",
     "runtime-main.js": "/tericsoft_mockUp_a/static/js/runtime-main.88f338a0.js",
@@ -10,14 +10,14 @@
     "static/js/3.a6a7fa5e.chunk.js": "/tericsoft_mockUp_a/static/js/3.a6a7fa5e.chunk.js",
     "static/js/3.a6a7fa5e.chunk.js.map": "/tericsoft_mockUp_a/static/js/3.a6a7fa5e.chunk.js.map",
     "index.html": "/tericsoft_mockUp_a/index.html",
-    "static/css/main.38cad8ba.chunk.css.map": "/tericsoft_mockUp_a/static/css/main.38cad8ba.chunk.css.map",
+    "static/css/main.2d46426c.chunk.css.map": "/tericsoft_mockUp_a/static/css/main.2d46426c.chunk.css.map",
     "static/js/2.981ce8f0.chunk.js.LICENSE.txt": "/tericsoft_mockUp_a/static/js/2.981ce8f0.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/tericsoft_mockUp_a/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.88f338a0.js",
     "static/js/2.981ce8f0.chunk.js",
-    "static/css/main.38cad8ba.chunk.css",
+    "static/css/main.2d46426c.chunk.css",
     "static/js/main.81239913.chunk.js"
   ]
 }
