@@ -11,3 +11,14 @@
 .icon_contain:hover{
     background-color: rgb(54, 54, 54);
 }
+.logostyle{
+    color: grey;
+    font-size: 80px;
+    margin: 10px 8px 0px 20px;
+}
+.logoname{
+    font-size: small;
+    color: grey;
+    text-align: center;
+    margin-top: -10px;
+}
