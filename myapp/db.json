@@ -4,20 +4,6 @@
     { "day": "Day 2 of BMX", "heart": ["HEATS", "MIXED"] },
     { "day": "Day 3 of BMX", "heart": ["HEATS", "SEMIS"] }
   ],
-  "middle": [{ "section": ["BMX", "Mountain", "Road", "Track"] }],
-  "icons": [
-    {
-      "icon": [
-        "Featured",
-        "Armoury",
-        "Aquatics",
-        "Cycling",
-        "Equestrian",
-        "Extreme",
-        "Golf",
-        "Gymanastics",
-        "Lake&Sea"
-      ]
-    }
-  ]
+  "middle": [{ "section": ["BMX", "Mountain", "Road", "Track"] }]
+ 
 }
