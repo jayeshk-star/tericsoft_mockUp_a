@@ -1,0 +1,11 @@
+.taskname {
+  color: white;
+  font: bold;
+  display: inline;
+  margin: 30px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.taskname:hover {
+  font-size: large;
+}

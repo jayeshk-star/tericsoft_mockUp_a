@@ -1,9 +1,20 @@
 {
   "BMX": [
-    { "day": "Day 1 of BMX", "heart": ["HEATS", "HEALIGHTS"] },
-    { "day": "Day 2 of BMX", "heart": ["HEATS", "MIXED"] },
-    { "day": "Day 3 of BMX", "heart": ["HEATS", "SEMIS"] }
+    {
+      "day": "Day 1 of BMX",
+      "heart": ["HEATS", "HEALIGHTS"],
+      "img": "https://www.storckworld.com/fileadmin/_processed_/e/e/csm_AQ3I5610_290ef582c9.jpg"
+    },
+    {
+      "day": "Day 2 of BMX",
+      "heart": ["HEATS", "MIXED"],
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm_gQOiEWgTG_uVzIzwms_i7uzSrUNXSAUDelDNXRi2EB1tjjONGmYvfeHJNUzGahdQFs&usqp=CAU"
+    },
+    {
+      "day": "Day 3 of BMX",
+      "heart": ["HEATS", "SEMIS"],
+      "img": "https://www.storckworld.com/fileadmin/tx_storck/storckworld/Home/Gallery/Galeriebild-5.jpg"
+    }
   ],
-  "middle": [{ "section": ["BMX", "Mountain", "Road", "Track"] }]
- 
+  "middle": ["BMX", "Mountain", "Road", "Track"]
 }
