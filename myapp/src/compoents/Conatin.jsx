@@ -11,7 +11,7 @@ const Conatin = () => {
           textDecoration: 'underline'
         }}
       >
-        Highlight{' '}
+        Highlights{' '}
       </h1>
       <Card />
     </div>

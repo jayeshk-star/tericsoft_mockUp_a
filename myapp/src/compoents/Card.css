@@ -19,23 +19,24 @@
   background-color: rgb(58, 57, 57);
   opacity: 0.5;
 }
-.card_data p{
-    font-size: 20px;
-    margin: 10px;
-    color: rgb(243, 241, 241);
+.card_data p {
+  font-size: 20px;
+  margin: 10px;
+  color: rgb(243, 241, 241);
 }
-.rigth{
-    float: right;
+.rigth {
+  float: right;
+  font-size: 15px;
 }
-.button{
-    margin-left: 10px;
-    font-size: 10px;
-    padding: 5px;
-    background-color: rgb(124, 124, 124);
-    opacity: 1.5;
-    color: white;
-    font-weight: bold;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
+.button {
+  margin-left: 10px;
+  font-size: 10px;
+  padding: 5px;
+  background-color: rgb(124, 124, 124);
+  opacity: 1.5;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
 }
