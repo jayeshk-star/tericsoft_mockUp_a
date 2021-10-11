@@ -13,6 +13,9 @@ step 2)    git clone url
  step 1)  npm install -g json-server
  step 2 ) json-server --watch db.json
  
+ ## some snap shots
+ <img src="https://i.ibb.co/1LFhQR9/tericsoft.png" />
+ 
  
  
  
