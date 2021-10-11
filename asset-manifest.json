@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tericsoft_mockUp_a/static/css/main.c3707e47.chunk.css",
-    "main.js": "/tericsoft_mockUp_a/static/js/main.b5022e25.chunk.js",
-    "main.js.map": "/tericsoft_mockUp_a/static/js/main.b5022e25.chunk.js.map",
+    "main.js": "/tericsoft_mockUp_a/static/js/main.e9be1d53.chunk.js",
+    "main.js.map": "/tericsoft_mockUp_a/static/js/main.e9be1d53.chunk.js.map",
     "runtime-main.js": "/tericsoft_mockUp_a/static/js/runtime-main.88f338a0.js",
     "runtime-main.js.map": "/tericsoft_mockUp_a/static/js/runtime-main.88f338a0.js.map",
     "static/js/2.981ce8f0.chunk.js": "/tericsoft_mockUp_a/static/js/2.981ce8f0.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.88f338a0.js",
     "static/js/2.981ce8f0.chunk.js",
     "static/css/main.c3707e47.chunk.css",
-    "static/js/main.b5022e25.chunk.js"
+    "static/js/main.e9be1d53.chunk.js"
   ]
 }
